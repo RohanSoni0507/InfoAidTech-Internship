@@ -1,0 +1,5 @@
+🧮 Just accomplished Level 1 Task 3 of the Web Development internship at @CODSOFT! 🖩 I've built a basic yet functional calculator using CSS, HTML, and JavaScript. 📊 This project showcases my skills in web development. Check out the demo, dive into the code on GitHub, and learn more about my web development journey! 💻
+
+🔗 Demo: [https://rohansoni0507.github.io/CalcWeb/]
+📁 GitHub Repository: [https://github.com/RohanSoni0507/CODSOFT/tree/main/CALCULATOR]
+#WebDevelopment #Internship #Calculator #CODSOFT
